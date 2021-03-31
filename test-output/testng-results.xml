@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="9" passed="3" failed="0" skipped="4">
+  <reporter-output>
+    <line>
+      <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='inputEmail3'] enter value as the ercan@ontherighttrack.com]]>
+    </line>
+    <line>
+      <![CDATA[ valid email is entered]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.cssSelector: #inputPassword3 enter value as the Amerika254]]>
+    </line>
+    <line>
+      <![CDATA[valid passwords is entering]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : By.xpath: //input[@value='SIGN IN'] bottom]]>
+    </line>
+    <line>
+      <![CDATA[Succefully entering main page.]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //div[@id='toast-container'] elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //i[@class='fa fa-plus'] elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[loginAsWorker   test is succefully tested]]>
+    </line>
+    <line>
+      <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+    </line>
+    <line>
+      <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+    </line>
+    <line>
+      <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+    </line>
+    <line>
+      <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+    </line>
+    <line>
+      <![CDATA[CURTAINTRACKONLY   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : By.xpath: //span[normalize-space()='Quotes'] bottom]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] web elemet to be clickable  ]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] bottom]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='curtainCost'] enter value as the Test_KeyDRiven]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.cssSelector: .col-sm-12.float-left > .col-sm-4.form-group.inputbutton.curtainTypeDropDown.float-left elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
+    </line>
+    <line>
+      <![CDATA[Dropdown has been selected!]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : By.cssSelector: input[formcontrolname='includeLaborCost'] bottom]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.cssSelector: #laborCost enter value as the 1500]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.cssSelector: #quantity enter value as the 2]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.cssSelector: #area_floor enter value as the ShowerRoom]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='room'] enter value as the 124B]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.cssSelector: #track_designation enter value as the 124-BCS]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='ceiling_height_feet'] enter value as the 9]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='ceiling_height_inches'] enter value as the 6]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : By.xpath: //input[@formcontrolname='ninety_degree_wall_touches'] bottom]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='first_feet'] enter value as the 12]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='first_inches'] enter value as the 6]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='second_feet'] enter value as the 4]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : By.xpath: //input[@id='second_inches'] enter value as the 8]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //input[@value='Add Track'] elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[CurtainTrackOnly   test is succefully tested]]>
+    </line>
+    <line>
+      <![CDATA[PARTONLYTEST   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //span[normalize-space()='Quotes']] bottom]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1] elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
+    </line>
+    <line>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+    </line>
+    <line>
+      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
+    </line>
+    <line>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
+    </line>
+    <line>
+      <![CDATA[waiting  in this  : By.xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o'] elemet to be peresent   ]]>
+    </line>
+    <line>
+      <![CDATA[partOnlyTest   test is succefully tested]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-31T01:39:15 EDT" name="Suite" finished-at="2021-03-31T01:39:23 EDT" duration-ms="7543">
+    <groups>
+    </groups>
+    <test started-at="2021-03-31T01:39:15 EDT" name="Create a truck " finished-at="2021-03-31T01:39:21 EDT" duration-ms="5999">
+      <class name="testCases.CreateNewQuoteTest">
+        <test-method signature="CurtainTrackOnly()[pri:0, instance:testCases.CreateNewQuoteTest@6c25e6c4]" started-at="2021-03-31T01:39:17 EDT" name="CurtainTrackOnly" finished-at="2021-03-31T01:39:21 EDT" duration-ms="4476" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CURTAINTRACKONLY   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : By.xpath: //span[normalize-space()='Quotes'] bottom]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] web elemet to be clickable  ]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] bottom]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='curtainCost'] enter value as the Test_KeyDRiven]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.cssSelector: .col-sm-12.float-left > .col-sm-4.form-group.inputbutton.curtainTypeDropDown.float-left elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
+            </line>
+            <line>
+              <![CDATA[Dropdown has been selected!]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : By.cssSelector: input[formcontrolname='includeLaborCost'] bottom]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.cssSelector: #laborCost enter value as the 1500]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.cssSelector: #quantity enter value as the 2]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.cssSelector: #area_floor enter value as the ShowerRoom]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='room'] enter value as the 124B]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.cssSelector: #track_designation enter value as the 124-BCS]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='ceiling_height_feet'] enter value as the 9]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='ceiling_height_inches'] enter value as the 6]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : By.xpath: //input[@formcontrolname='ninety_degree_wall_touches'] bottom]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='first_feet'] enter value as the 12]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='first_inches'] enter value as the 6]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='second_feet'] enter value as the 4]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='second_inches'] enter value as the 8]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //input[@value='Add Track'] elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[CurtainTrackOnly   test is succefully tested]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CurtainTrackOnly -->
+      </class> <!-- testCases.CreateNewQuoteTest -->
+      <class name="testCases.LoginTest">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:15 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:16 EDT" duration-ms="1027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Amerika254, email=ercan@ontherighttrack.com, runmode=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.xpath: //input[@id='inputEmail3'] enter value as the ercan@ontherighttrack.com]]>
+            </line>
+            <line>
+              <![CDATA[ valid email is entered]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : By.cssSelector: #inputPassword3 enter value as the Amerika254]]>
+            </line>
+            <line>
+              <![CDATA[valid passwords is entering]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : By.xpath: //input[@value='SIGN IN'] bottom]]>
+            </line>
+            <line>
+              <![CDATA[Succefully entering main page.]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //div[@id='toast-container'] elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //i[@class='fa fa-plus'] elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[loginAsWorker   test is succefully tested]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsWorker -->
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="1" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=, email=, runmode=N}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test is skipping  bacouse of run mode ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test is skipping  bacouse of run mode 
+at testCases.LoginTest.loginAsWorker(LoginTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsWorker -->
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="6" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=, email=, runmode=N}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test is skipping  bacouse of run mode ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test is skipping  bacouse of run mode 
+at testCases.LoginTest.loginAsWorker(LoginTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsWorker -->
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="5" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=, email=, runmode=}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test is skipping  bacouse of run mode ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test is skipping  bacouse of run mode 
+at testCases.LoginTest.loginAsWorker(LoginTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsWorker -->
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="4" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=, email=, runmode=}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test is skipping  bacouse of run mode ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test is skipping  bacouse of run mode 
+at testCases.LoginTest.loginAsWorker(LoginTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[LOGINASWORKER   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[loginAsWorker   test is  skipped the test as run mode is no ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsWorker -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- Create a truck  -->
+    <test started-at="2021-03-31T01:39:21 EDT" name="PartOnlyTest" finished-at="2021-03-31T01:39:23 EDT" duration-ms="1525">
+      <class name="testCases.PartOnlyTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:11 EDT" name="setUP" finished-at="2021-03-31T01:39:15 EDT" duration-ms="4839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="partOnlyTest()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:21 EDT" name="partOnlyTest" finished-at="2021-03-31T01:39:23 EDT" duration-ms="1502" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[PARTONLYTEST   checking  test  case run mode. if run mode is no: test will be skipped.]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //span[normalize-space()='Quotes']] bottom]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1] elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
+            </line>
+            <line>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+            </line>
+            <line>
+              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
+            </line>
+            <line>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
+            </line>
+            <line>
+              <![CDATA[waiting  in this  : By.xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o'] elemet to be peresent   ]]>
+            </line>
+            <line>
+              <![CDATA[partOnlyTest   test is succefully tested]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- partOnlyTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:23 EDT" name="tearDown" finished-at="2021-03-31T01:39:23 EDT" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PartOnlyTest -->
+    </test> <!-- PartOnlyTest -->
+  </suite> <!-- Suite -->
+</testng-results>

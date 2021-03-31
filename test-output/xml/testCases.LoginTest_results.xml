@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create a truck "
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="4"
+           time="1.043">
+  <properties />
+  
+            <testcase name="loginAsWorker" time="0.0" classname="testCases.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="loginAsWorker" time="0.0" classname="testCases.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="loginAsWorker" time="0.0" classname="testCases.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="loginAsWorker" time="0.0" classname="testCases.LoginTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="loginAsWorker" time="1.027" classname="testCases.LoginTest" />
+      
+</testsuite>

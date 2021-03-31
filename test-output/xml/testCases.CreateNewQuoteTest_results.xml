@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create a truck "
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.476">
+  <properties />
+  
+  
+            <testcase name="CurtainTrackOnly" time="4.476" classname="testCases.CreateNewQuoteTest" />
+      
+</testsuite>
