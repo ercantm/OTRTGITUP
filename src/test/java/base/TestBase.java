@@ -3,6 +3,8 @@ package base;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -39,6 +41,7 @@ import com.relevantcodes.extentreports.LogStatus;
 //import com.relevantcodes.extentreports.LogStatus;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import pages.TopMenu;
 import utilities.ExcelReader;
 import utilities.ExtentManager;
 import utilities.TestUtil;
@@ -51,6 +54,7 @@ public class TestBase {
 	 * 
 	 * 
 	 */
+	public static TopMenu menu;
 	public static SoftAssert soft = new SoftAssert();
 	public static ExtentReports rep = ExtentManager.getInstance();
 	public static ExtentTest test;
@@ -68,6 +72,8 @@ public class TestBase {
 
 	public void setUP() throws IOException {
 		if (driver == null) {
+			
+			// menu= new TopMenu(driver); using consantraints
 			config = new Properties();
 			OR = new Properties();
 			File f = new File(
@@ -79,7 +85,7 @@ public class TestBase {
 			File f2 = new File(System.getProperty("user.dir") + "\\src\\test\\resources\\propereties\\OR.properties");
 			fis = new FileInputStream(f2);
 			OR.load(fis);
-
+            // this is for jenkin envrimonment 
 			if (System.getenv("browser") != null && (!System.getenv("browser").isEmpty())) {
 				browser = System.getenv("browser");
 
@@ -117,17 +123,17 @@ public class TestBase {
 			if (browser.toString().equalsIgnoreCase("chrome")) {
 
 				WebDriverManager.chromedriver().setup();
-
+				Map<String, Object> prefs = new HashMap<String, Object>();
+				prefs.put("profile.default_content_setting_values.notifications", 2);
+				prefs.put("credentials_enable_service", false);
+				prefs.put("profile.password_manager_enabled", false);
 				ChromeOptions options = new ChromeOptions();
-				options.addArguments("--disable-popup-blocking");
-				DesiredCapabilities capabilities = new DesiredCapabilities();
-				capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-				driver = new ChromeDriver(capabilities);
+				options.setExperimentalOption("prefs", prefs);
+				options.addArguments("--disable-extensions");
+				options.addArguments("--disable-infobars");
 
-				// System.setProperty("webdriver.chrome.driver",
-				// "C:\\Users\\ercan\\Driver\\Chromedriver\\chromedriver.exe");
-				// driver = new ChromeDriver();
-				log.debug(" Crome is  starting");
+				driver = new ChromeDriver(options);
+
 			}
 			if (browser.toString().equalsIgnoreCase("edge")) {
 				WebDriverManager.edgedriver().setup();
@@ -154,7 +160,7 @@ public class TestBase {
 			driver.manage().timeouts().implicitlyWait(Integer.parseInt(config.getProperty("implicitWait")),
 					TimeUnit.SECONDS);
 			wait = new WebDriverWait(driver, 15);
-
+			menu = new TopMenu();
 		}
 	}
 

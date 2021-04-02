@@ -68,10 +68,10 @@
       <![CDATA[clicking  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] bottom]]>
     </line>
     <line>
-      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
     </line>
     <line>
       <![CDATA[typing in this : By.xpath: //input[@id='curtainCost'] enter value as the Test_KeyDRiven]]>
@@ -80,7 +80,7 @@
       <![CDATA[waiting  in this  : By.cssSelector: .col-sm-12.float-left > .col-sm-4.form-group.inputbutton.curtainTypeDropDown.float-left elemet to be peresent   ]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
     </line>
     <line>
       <![CDATA[Dropdown has been selected!]]>
@@ -92,7 +92,7 @@
       <![CDATA[typing in this : By.cssSelector: #laborCost enter value as the 1500]]>
     </line>
     <line>
-      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
     </line>
     <line>
       <![CDATA[typing in this : By.cssSelector: #quantity enter value as the 2]]>
@@ -116,10 +116,10 @@
       <![CDATA[clicking  in this  : By.xpath: //input[@formcontrolname='ninety_degree_wall_touches'] bottom]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
     </line>
     <line>
       <![CDATA[typing in this : By.xpath: //input[@id='first_feet'] enter value as the 12]]>
@@ -134,7 +134,7 @@
       <![CDATA[typing in this : By.xpath: //input[@id='second_inches'] enter value as the 8]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
     </line>
     <line>
       <![CDATA[waiting  in this  : By.xpath: //input[@value='Add Track'] elemet to be peresent   ]]>
@@ -146,43 +146,40 @@
       <![CDATA[PARTONLYTEST   checking  test  case run mode. if run mode is no: test will be skipped.]]>
     </line>
     <line>
-      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //span[normalize-space()='Quotes']] bottom]]>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
     </line>
     <line>
-      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
     </line>
     <line>
-      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
     </line>
     <line>
-      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
-    </line>
-    <line>
-      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
+      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
     </line>
     <line>
       <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1] elemet to be peresent   ]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
     </line>
     <line>
-      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
     </line>
     <line>
-      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+      <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
     </line>
     <line>
-      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
+      <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
     </line>
     <line>
-      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
+      <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
     </line>
     <line>
-      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
+      <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
     </line>
     <line>
       <![CDATA[waiting  in this  : By.xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o'] elemet to be peresent   ]]>
@@ -191,12 +188,12 @@
       <![CDATA[partOnlyTest   test is succefully tested]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-03-31T01:39:15 EDT" name="Suite" finished-at="2021-03-31T01:39:23 EDT" duration-ms="7543">
+  <suite started-at="2021-03-31T22:10:57 EDT" name="Suite" finished-at="2021-03-31T22:11:04 EDT" duration-ms="7038">
     <groups>
     </groups>
-    <test started-at="2021-03-31T01:39:15 EDT" name="Create a truck " finished-at="2021-03-31T01:39:21 EDT" duration-ms="5999">
+    <test started-at="2021-03-31T22:10:57 EDT" name="Create a truck " finished-at="2021-03-31T22:11:03 EDT" duration-ms="5638">
       <class name="testCases.CreateNewQuoteTest">
-        <test-method signature="CurtainTrackOnly()[pri:0, instance:testCases.CreateNewQuoteTest@6c25e6c4]" started-at="2021-03-31T01:39:17 EDT" name="CurtainTrackOnly" finished-at="2021-03-31T01:39:21 EDT" duration-ms="4476" status="PASS">
+        <test-method signature="CurtainTrackOnly()[pri:0, instance:testCases.CreateNewQuoteTest@6c25e6c4]" started-at="2021-03-31T22:10:58 EDT" name="CurtainTrackOnly" finished-at="2021-03-31T22:11:03 EDT" duration-ms="4432" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[CURTAINTRACKONLY   checking  test  case run mode. if run mode is no: test will be skipped.]]>
@@ -211,10 +208,10 @@
               <![CDATA[clicking  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1] bottom]]>
             </line>
             <line>
-              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter value as the Test]]>
             </line>
             <line>
               <![CDATA[typing in this : By.xpath: //input[@id='curtainCost'] enter value as the Test_KeyDRiven]]>
@@ -223,7 +220,7 @@
               <![CDATA[waiting  in this  : By.cssSelector: .col-sm-12.float-left > .col-sm-4.form-group.inputbutton.curtainTypeDropDown.float-left elemet to be peresent   ]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 1]]>
             </line>
             <line>
               <![CDATA[Dropdown has been selected!]]>
@@ -235,7 +232,7 @@
               <![CDATA[typing in this : By.cssSelector: #laborCost enter value as the 1500]]>
             </line>
             <line>
-              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[4]/div[5]/input[1]] web elemet to be vissible ]]>
             </line>
             <line>
               <![CDATA[typing in this : By.cssSelector: #quantity enter value as the 2]]>
@@ -259,10 +256,10 @@
               <![CDATA[clicking  in this  : By.xpath: //input[@formcontrolname='ninety_degree_wall_touches'] bottom]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> css selector: body > anms-root:nth-child(1) > main:nth-child(1) > pages:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > add-quotes:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > screen2:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > add-track-details:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > div:nth-child(8) > dropdrown:nth-child(2) > div:nth-child(1) > select:nth-child(1)] enter index number  as the 1: ACT]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-3 form-group fabricPatternListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 1: 1 Curve]]>
             </line>
             <line>
               <![CDATA[typing in this : By.xpath: //input[@id='first_feet'] enter value as the 12]]>
@@ -277,7 +274,7 @@
               <![CDATA[typing in this : By.xpath: //input[@id='second_inches'] enter value as the 8]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/screen2[1]/div[1]/div[1]/div[1]/div[1]/add-track-details[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[13]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2: 90° 1 ft. Radius Bend]]>
             </line>
             <line>
               <![CDATA[waiting  in this  : By.xpath: //input[@value='Add Track'] elemet to be peresent   ]]>
@@ -289,7 +286,7 @@
         </test-method> <!-- CurtainTrackOnly -->
       </class> <!-- testCases.CreateNewQuoteTest -->
       <class name="testCases.LoginTest">
-        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:15 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:16 EDT" duration-ms="1027" status="PASS">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T22:10:57 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T22:10:58 EDT" duration-ms="721" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -330,7 +327,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loginAsWorker -->
-        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="1" status="SKIP">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T22:10:58 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T22:10:58 EDT" duration-ms="2" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -385,7 +382,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- loginAsWorker -->
-        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="6" status="SKIP">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T22:10:58 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T22:10:58 EDT" duration-ms="2" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -440,7 +437,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- loginAsWorker -->
-        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="5" status="SKIP">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T22:10:58 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T22:10:58 EDT" duration-ms="5" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -495,7 +492,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- loginAsWorker -->
-        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T01:39:17 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T01:39:17 EDT" duration-ms="4" status="SKIP">
+        <test-method signature="loginAsWorker(java.util.Hashtable)[pri:0, instance:testCases.LoginTest@5c530d1e]" started-at="2021-03-31T22:10:58 EDT" name="loginAsWorker" data-provider="dp" finished-at="2021-03-31T22:10:58 EDT" duration-ms="1" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -552,55 +549,52 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         </test-method> <!-- loginAsWorker -->
       </class> <!-- testCases.LoginTest -->
     </test> <!-- Create a truck  -->
-    <test started-at="2021-03-31T01:39:21 EDT" name="PartOnlyTest" finished-at="2021-03-31T01:39:23 EDT" duration-ms="1525">
+    <test started-at="2021-03-31T22:11:03 EDT" name="PartOnlyTest" finished-at="2021-03-31T22:11:04 EDT" duration-ms="1380">
       <class name="testCases.PartOnlyTest">
-        <test-method is-config="true" signature="setUP()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:11 EDT" name="setUP" finished-at="2021-03-31T01:39:15 EDT" duration-ms="4839" status="PASS">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T22:10:51 EDT" name="setUP" finished-at="2021-03-31T22:10:57 EDT" duration-ms="5473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method signature="partOnlyTest()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:21 EDT" name="partOnlyTest" finished-at="2021-03-31T01:39:23 EDT" duration-ms="1502" status="PASS">
+        <test-method signature="partOnlyTest()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T22:11:03 EDT" name="partOnlyTest" finished-at="2021-03-31T22:11:04 EDT" duration-ms="1354" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[PARTONLYTEST   checking  test  case run mode. if run mode is no: test will be skipped.]]>
             </line>
             <line>
-              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //span[normalize-space()='Quotes']] bottom]]>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
             </line>
             <line>
-              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] web elemet to be clickable  ]]>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
             </line>
             <line>
-              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/quotes[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]] bottom]]>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
             </line>
             <line>
-              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] web elemet to be vissible ]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='col-sm-4 form-group inputbutton customerListDropDown float-left']//select[@class='select-dropdown ng-untouched ng-pristine ng-valid ng-star-inserted']] enter index number  as the 219: Test]]>
-            </line>
-            <line>
-              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
+              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //input[@id='curtainCost']] enter value as the PageObjectDataDriven]]>
             </line>
             <line>
               <![CDATA[waiting  in this  : By.xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1] elemet to be peresent   ]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[4]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
             </line>
             <line>
-              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //div[@class='curvesHeadingContainer']//button[@type='button']] bottom]]>
             </line>
             <line>
-              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
+              <![CDATA[selecting in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //body/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/dropdrown[1]/div[1]/select[1]] enter index number  as the 2]]>
             </line>
             <line>
-              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
+              <![CDATA[typing in this : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //input[@id='linearLengthFeet']] enter value as the 10]]>
             </line>
             <line>
-              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
+              <![CDATA[clicking  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: /html[1]/body[1]/anms-root[1]/main[1]/pages[1]/div[2]/div[2]/div[1]/div[2]/add-quotes[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/quote-curve[1]/div[1]/div[3]/ngx-smart-modal[1]/div[1]/div[1]/div[1]/div[1]/div[2]/add-quote-curve[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/input[2]] bottom]]>
             </line>
             <line>
-              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (2488f7d098eef24ec5517d8ed39f562f)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
+              <![CDATA[waiting  in this  : [[ChromeDriver: chrome on WINDOWS (21d685027c9f4224d45547ae132df10b)] -> xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o']] web elemet to be vissible ]]>
             </line>
             <line>
               <![CDATA[waiting  in this  : By.xpath: //i[@class='btn btn-danger btn-xs fa fa-trash-o'] elemet to be peresent   ]]>
@@ -610,7 +604,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- partOnlyTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T01:39:23 EDT" name="tearDown" finished-at="2021-03-31T01:39:23 EDT" duration-ms="137" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PartOnlyTest@2f6e28bc]" started-at="2021-03-31T22:11:04 EDT" name="tearDown" finished-at="2021-03-31T22:11:04 EDT" duration-ms="146" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -14,7 +14,7 @@
         <protocol>https</protocol>
         
         <!-- title of the document -->
-        <documentTitle>W2A Automation Reports</documentTitle>
+        <documentTitle>OTRT Reports</documentTitle>
         
         <!-- report name - displayed at top-nav -->
         <reportName>OTRT Extents Report</reportName>

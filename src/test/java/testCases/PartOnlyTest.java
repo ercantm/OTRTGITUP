@@ -18,7 +18,7 @@ public class PartOnlyTest extends TestBase {
 	public void partOnlyTest() throws InterruptedException {
 
 		p = new PartOnly(TestBase.driver);
-		click(p.quotebtm());
+		menu.gotoQuote();
 
 		// add
 		waitClickable(p.addbtm());

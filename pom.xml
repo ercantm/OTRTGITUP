@@ -24,7 +24,7 @@
 					</suiteXmlFiles>
 					<!--<properties> -->
 					<!--<properties> -->
-					<!--<maven.compiler.source>1.8.1</maven.compiler.source> -->
+	<!--<maven.compiler.source>1.8.1</maven.compiler.source> -->
 					<!-- <maven.compiler.target>1.8.1</maven.compiler.target> -->
 					<!-- </properties> -->
 					<!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
@@ -48,7 +48,7 @@
 
 		<testResources>
 			<testResource>
-				<directory>src/test/resources/propereties/log4j.properties</directory>
+				<directory>src/test/resources/propereties</directory>
 				<includes>
 					<include>log4j.properties</include>
 				</includes>
